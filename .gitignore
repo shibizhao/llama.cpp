@@ -1,5 +1,7 @@
 # Extensions
 
+.xclbin
+
 *.a
 *.bat
 *.bin
